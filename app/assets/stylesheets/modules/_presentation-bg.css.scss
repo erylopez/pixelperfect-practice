@@ -1,0 +1,32 @@
+html, body{
+  height: 100%;
+}
+*{
+  margin:0; padding: 0;
+}
+.presentation-bg{
+  background-repeat: repeat-x;
+  background-image: url('../img/img-decor-01.jpg');
+  background-repeat:no-repeat;
+  background-size: 100%;
+  background-position:0px 0px !important;
+    .bg-1{
+      text-align: center;
+      .title{
+        font-weight: bold;
+        color: #fff;
+        font-size: 60px;
+      }
+    .slogan{
+      color:#cccccc;
+      font-weight: bold;
+      font-size: 18px;
+      .long-slogan{
+
+      }
+      .short-slogan{
+
+      }
+    }
+    }
+}
